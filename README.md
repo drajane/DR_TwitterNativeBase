@@ -1,9 +1,9 @@
 # NativeBase TwitterApp v1.0
 This app was developed as part of the Hasura internship.
-An example app with all the UI components of NativeBase
+A Twitter example app with 3 screens showcasing the SideBar, Home(TwitterCard) and Search UI using the components of NativeBase
 
 > **NativeBase-TwitterApp** comes in one form of app for you!
->1. Pure React Native App with `react-navigation` on branch **[master](https://github.com/GeekyAnts/NativeBase-KitchenSink)**
+>1. Pure React Native App with `react-navigation` on branch **[master](https://github.com/drajane/DR_TwitterNativeBase)**
 
 
 >Find the installation guide in `ReadMe` of appropriate branches
@@ -30,9 +30,9 @@ The applications stack of components is built using native UI components, so the
 On the command prompt run the following commands
 
 ```sh
-$ git clone git@github.com:GeekyAnts/NativeBase-KitchenSink.git
+$ git clone git@github.com:drajane/DR_TwitterNativeBase.git
 
-$ cd NativeBase-KitchenSink/
+$ cd DR_TwitterNativeBase/
 
 $ npm install
 
